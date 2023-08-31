@@ -1,3 +1,8 @@
+<a href="https://github.com/dk900912">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dk900912&count_private=true&show_icons=true" />
+</a>
+
+
 - 👋 Hi, I’m xiaotou
 - 👀 I’m interested in sleeping, swimming and cartoon
 - 📫 You can reach me by WeChat (`sz_crimson_typhoon`)
